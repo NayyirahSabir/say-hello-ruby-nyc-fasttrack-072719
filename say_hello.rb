@@ -1,2 +1,4 @@
 # Build your say_hello method here
-say_hello("name")
+name = "Gabriela"
+
+say_hello(name)
